@@ -24,7 +24,8 @@
   https://github.com/yoonkim/CNN_sentence（theano） 静态和动态输入都有 ps：选择深度学习框架也是一门学问，偏爱谷歌<br>
 3，http://aclweb.org/anthology/P14-1062 牛津大学 dcnn  动态k-max plooling以及unfolding策略<br>
 4，http://aclweb.org/anthology/I17-1026  对比cnn的一些参数对文本分类的影响 从输入到卷积核大小、卷积核个数等等 实验做的真的多 最后给出了一些实践技巧 例如卷积核的大小和卷积核的个数选择等等<br>
-<br>
+
+
 未完待续....
 -----
 
